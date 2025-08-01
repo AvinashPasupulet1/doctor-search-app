@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Asha Rao",
+    "specialty": "Dermatologist",
+    "location": "Hyderabad",
+    "experience": 10
+  },
+  {
+    "id": 2,
+    "name": "Dr. Mohan Kumar",
+    "specialty": "Cardiologist",
+    "location": "Bangalore",
+    "experience": 15
+  },
+  {
+    "id": 3,
+    "name": "Dr. Kavita Jain",
+    "specialty": "Dentist",
+    "location": "Hyderabad",
+    "experience": 8
+  }
+]
